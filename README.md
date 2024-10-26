@@ -1,7 +1,7 @@
 # Memefi AUTO
 
 Memefi Telegram Mini App Bot Auto</br>
-*(Requires Only Query ID)*
+*(Requires Only Query ID / Access Token)*
 
 > [!NOTE]
 > This is a paid script that requires a valid license key to operate. For more information, please visit the [Dzuhri Auto](https://irhamdz.notion.site/Dzuhri-Auto-10f53e55353080f98fbae250bd7172d1) page.

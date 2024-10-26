@@ -91,6 +91,14 @@ async def get_query_ids():
     lines = [line.strip() for line in temp_lines]
     return lines
 
+async def get_tokens():
+    temp_lines = []
+    with open("tokens.txt", "r") as file:
+        temp_lines = file.readlines()
+
+    lines = [line.strip() for line in temp_lines]
+    return lines
+
 
 def get_tele_user_obj_from_query_id(query_id):
     # formatted_query_id = unquote(string=query_id)
